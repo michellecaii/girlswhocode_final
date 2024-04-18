@@ -4,14 +4,6 @@
 ## Introduction
 Welcome to "Robot Apocalypse," an FPS (First Person Shooter) pygame prototype where you navigate through levels, solving puzzles and shooting robots to progress. To escape a level, try to delete the visual representation of the door within the game interface. Use your arrow keys to move and the spacebar to shoot.
 
-## Creators
-This game was developed by:
-- Lena Pang 
-- Ellie Paek
-- Michelle Cai 
-- Shubhi Jain 
-- Srishti Ganu 
-
 ## Requirements
 - **Python 3.x**
 - **Pygame**
@@ -39,3 +31,12 @@ The game transitions through various levels based on your success in quizzes and
 
 ## Exiting the Game
 Close the game window or press the escape key during gameplay to exit.
+
+## Creators
+This game was developed by:
+- Lena Pang 
+- Ellie Paek
+- Michelle Cai 
+- Shubhi Jain 
+- Srishti Ganu 
+
